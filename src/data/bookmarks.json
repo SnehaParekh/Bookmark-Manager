@@ -1,0 +1,15 @@
+[
+    {"id":0, "title": "AngularJS by Todd", "url": "https://toddmotto.com/", "category": "Development" },
+    {"id":1, "title": "Gulp for beginners", "url": "https://css-tricks.com/gulp-for-beginners/", "category": "Development"},
+    {"id":2, "title": "Full Stack Map", "url": "https://coggle.it/diagram/Vz9LvW8byvN0I38x", "category": "Development" },   
+    {"id":3, "title": "Smashing Magazine", "url": "https://www.smashingmagazine.com/", "category": "Design" },
+    {"id":4, "title": "Google Design", "url": "https://design.google.com/", "category": "Design" },
+    {"id":5, "title": "Material Design", "url": "https://material.io/guidelines/", "category": "Design" },
+    {"id":6, "title": "Angular Material", "url": "https://material.angular.io/", "category": "Design" },  
+    {"id":7, "title": "Nomads", "url": "http://www.nomadicmatt.com/", "category": "Travel" },
+    {"id":8, "title": "AirBnb", "url": "https://www.airbnb.co.in", "category": "Travel" },   
+    {"id":9, "title": "Quiet Revolution", "url": "http://www.quietrev.com/", "category": "Blogs" },   
+    {"id":10, "title": "Andy Shora", "url": "http://andyshora.com/", "category": "Blogs" },
+    {"id":11, "title": "Latent Flip", "url": "http://latentflip.com/", "category": "Blogs" },
+    {"id":12, "title": "Worldly Nomads", "url": "http://worldlynomads.com/", "category": "Travel" }  
+]
